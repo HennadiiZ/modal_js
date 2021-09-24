@@ -1,4 +1,6 @@
 # modal_js
+https://hennadiiz.github.io/modal_js/ 
+
 // show modal in 9 sec 
 // show modal when reach footer
 // show modal when press buttons
